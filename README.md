@@ -10,12 +10,12 @@ The Parent Repository of this project can be found on this [link](https://github
 <!-- # Live Working Project:
 
 [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/) -->
-
+<!-- 
 ## Features Needed to Be Added:
 
 * [✅] Live Working Project
 * [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
-* [❌] Everything is static right now, no API integration done on it.
+* [❌] Everything is static right now, no API integration done on it. -->
 
 ### Created with :heart:
 A a Pre-Final Year Computer Science Student, an experienced Software Developer with a demonstrated history of working in the information technology and services industry. Seasoned Competitive Coder. Skilled in C++, Python, Data Analysis, Java, Dart and Julia. Strong information technology professional with a Bachelor of Engineering - BE focused in Computer Science from Chandigarh University. 
