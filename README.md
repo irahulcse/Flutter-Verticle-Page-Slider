@@ -7,9 +7,9 @@ If you had like the project pls hit the star :+1: icon.
 
 The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
-# Live Working Project:
+<!-- # Live Working Project:
 
-[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
+[Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/) -->
 
 ## Features Needed to Be Added:
 
